@@ -44,8 +44,6 @@ pip install sqlparse
 pip install typing-extensions
 pip install django-webpack-loader
 
-npm install axios
-npm install react-router-dom
 
 # Crea un progetto React chiamato "frontend"
 npx create-react-app frontend
