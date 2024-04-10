@@ -14,6 +14,11 @@ This Bash script automates the setup process for a Django-React project, streaml
     ./creaAmbienteBase.sh
     ```
 
+3. Run the script:
+    ```bash
+    git remote rm origin
+    ```
+
 This script performs tasks such as creating a virtual environment, configuring the Django database, and launching Django and npm servers in separate terminals.
 
 ## Features
